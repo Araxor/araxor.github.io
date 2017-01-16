@@ -2,3 +2,5 @@ title: "Araxor's blog"
 author: Araxor
 email: araxor@gmail.com
 theme: jekyll-theme-cayman
+gems:
+  - jekyll-feed
